@@ -1,0 +1,6 @@
+<resources>
+    <color name="app_bg_color">#DFEAF1</color>
+    <color name="btn_bg_color">#EF8C35</color>
+    <color name="btn_capstone_bg_color">#CD0E3E</color>
+    <color name="txt_title_bg_color">#16425D</color>
+</resources>
